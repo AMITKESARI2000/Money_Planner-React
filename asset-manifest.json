@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Money_Planner-React/static/css/main.708a4d9b.chunk.css",
+    "main.js": "/Money_Planner-React/static/js/main.d199e32f.chunk.js",
+    "main.js.map": "/Money_Planner-React/static/js/main.d199e32f.chunk.js.map",
+    "runtime-main.js": "/Money_Planner-React/static/js/runtime-main.7e8fec6d.js",
+    "runtime-main.js.map": "/Money_Planner-React/static/js/runtime-main.7e8fec6d.js.map",
+    "static/js/2.abb637fc.chunk.js": "/Money_Planner-React/static/js/2.abb637fc.chunk.js",
+    "static/js/2.abb637fc.chunk.js.map": "/Money_Planner-React/static/js/2.abb637fc.chunk.js.map",
+    "index.html": "/Money_Planner-React/index.html",
+    "precache-manifest.355ebccc656bdcc07ed258843100074a.js": "/Money_Planner-React/precache-manifest.355ebccc656bdcc07ed258843100074a.js",
+    "service-worker.js": "/Money_Planner-React/service-worker.js",
+    "static/css/main.708a4d9b.chunk.css.map": "/Money_Planner-React/static/css/main.708a4d9b.chunk.css.map",
+    "static/js/2.abb637fc.chunk.js.LICENSE.txt": "/Money_Planner-React/static/js/2.abb637fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e8fec6d.js",
+    "static/js/2.abb637fc.chunk.js",
+    "static/css/main.708a4d9b.chunk.css",
+    "static/js/main.d199e32f.chunk.js"
+  ]
+}
